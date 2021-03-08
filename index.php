@@ -46,7 +46,7 @@ arrayProdutos.push({
 var html = '';
 
 html = html + '<table class="table">'
-html = html + '<t>'
+html = html + '<tr>'
 html = html + '<th>Id<th>'
 html = html + '<th>Produto<th>'
 html = html + '<th>Música<th>'
